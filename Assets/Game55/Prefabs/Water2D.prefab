@@ -650,8 +650,8 @@ MonoBehaviour:
   TintColor: {r: 0, g: 0.4392157, b: 1, a: 1}
   Intensity: 2.049
   LensMag: 1.2
-  Distortion: 3
-  DistortionSpeed: 4
+  Distortion: 2
+  DistortionSpeed: 1
   GlowEffect: 0
   GlowColor: {r: 1, g: 1, b: 1, a: 0.4}
   GlowSize: 1.5
@@ -659,7 +659,7 @@ MonoBehaviour:
   GlossOffset: 1.76
   _lastGlowEnabledValue: 0
   initSpeed: {x: 1, y: -1.8}
-  Speed: 2.3381948
+  Speed: 2.338195
   PhysicMat: {fileID: 6200000, guid: b0a58d042ab47e4459e8de12a0bf051f, type: 2}
   ColliderSize: 0.0425
   AutoMass: 0
@@ -676,7 +676,7 @@ MonoBehaviour:
   DropCount: 200
   _lastDropCount: 200
   Loop: 1
-  DropsUsed: 105
+  DropsUsed: 89
   DynamicChanges: 1
   OnValidateShapeFill:
     m_PersistentCalls:
@@ -699,7 +699,7 @@ MonoBehaviour:
   OnSpawnerEmitingParticle:
     m_PersistentCalls:
       m_Calls: []
-  TheIdentifier: 54776
+  TheIdentifier: 252014
   isRefractingMaterial: 0
 --- !u!1 &3631586059967861920
 GameObject:
